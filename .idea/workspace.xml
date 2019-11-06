@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c8a5f7-75f8-4ea9-bff2-dd4d0d06ce3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,7 +138,7 @@
       <workItem from="1538004586595" duration="106000" />
       <workItem from="1572278486330" duration="20352000" />
       <workItem from="1572974345817" duration="1043000" />
-      <workItem from="1573043658375" duration="5168000" />
+      <workItem from="1573043658375" duration="5806000" />
     </task>
     <servers />
   </component>
