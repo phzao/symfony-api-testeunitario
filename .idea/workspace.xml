@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52c8a5f7-75f8-4ea9-bff2-dd4d0d06ce3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/aria_log.00000001" beforeDir="false" afterPath="$PROJECT_DIR$/db/aria_log.00000001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/aria_log_control" beforeDir="false" afterPath="$PROJECT_DIR$/db/aria_log_control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/db/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/db/ibdata1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/phpdocker/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/phpdocker/nginx/nginx.conf" afterDir="false" />
     </list>
@@ -144,7 +140,7 @@
       <workItem from="1538004586595" duration="106000" />
       <workItem from="1572278486330" duration="20352000" />
       <workItem from="1572974345817" duration="1043000" />
-      <workItem from="1573043658375" duration="4565000" />
+      <workItem from="1573043658375" duration="4721000" />
     </task>
     <servers />
   </component>
