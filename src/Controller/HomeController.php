@@ -14,7 +14,7 @@ class HomeController
     /**
      * @Route("/home")
     */
-    public function index()
+    public function home()
     {
         return new Response('<html><div>Hello Jenkins</div></html>');
     }
