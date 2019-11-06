@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/symfostarter.iml" filepath="$PROJECT_DIR$/.idea/symfostarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/symfony-api-testeunitario.iml" filepath="$PROJECT_DIR$/.idea/symfony-api-testeunitario.iml" />
     </modules>
   </component>
 </project>
