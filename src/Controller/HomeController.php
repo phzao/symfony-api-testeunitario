@@ -16,6 +16,6 @@ class HomeController
     */
     public function index()
     {
-        return new Response('<html><div>Jenkins works</div></html>');
+        return new Response('<html><div>Hello Jenkins</div></html>');
     }
 }
