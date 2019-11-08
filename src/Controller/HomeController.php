@@ -16,6 +16,6 @@ class HomeController
     */
     public function home()
     {
-        return new Response('<html><div>Hello Fractal</div></html>');
+        return new Response('<html><div>Hello Sexta</div></html>');
     }
 }
